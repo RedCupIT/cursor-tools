@@ -25,5 +25,9 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250506.0",
     "miniflare": "^4.20250428.1"
+  },
+  "overrides": {
+    "form-data": "^4.0.4",
+    "fast-xml-parser": "^5.3.5"
   }
 }
